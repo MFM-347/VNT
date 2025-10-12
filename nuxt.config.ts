@@ -29,7 +29,7 @@ export default defineNuxtConfig({
 
   site: {
     name: 'VNT',
-    url: 'https://vnt.vercel.app',
+    url: 'https://vnt3.vercel.app',
     description:
       'VNT is a modern, SEO-friendly Nuxt 4 starter template with TypeScript, Tailwind CSS, and accessibility built in.',
     tagline: 'Modern Nuxt 4 Template',

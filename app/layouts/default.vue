@@ -10,7 +10,7 @@
       <slot />
     </main>
     <footer class="w-full border-t bg-muted py-4 text-center text-sm text-muted-foreground">
-      &copy; {{ new Date().getFullYear() }} <a href="https://vnt.vercel.app">VNT</a>. All rights
+      &copy; {{ new Date().getFullYear() }} <a href="https://vnt3.vercel.app">VNT</a>. All rights
       reserved.
     </footer>
   </div>

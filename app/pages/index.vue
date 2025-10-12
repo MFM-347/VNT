@@ -53,7 +53,7 @@ useSEO({
   title: 'VNT - Modern Nuxt 4 Template',
   description:
     'VNT is a modern, SEO-friendly Nuxt 4 starter template with TypeScript, Tailwind CSS, and accessibility built in.',
-  url: 'https://vnt.vercel.app/',
+  url: 'https://vnt3.vercel.app/',
 })
 
 defineOgImageComponent('Nuxt', {
