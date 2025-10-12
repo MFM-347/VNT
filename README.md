@@ -1,75 +1,20 @@
-# Nuxt Minimal Starter
+# VNT - Modern Nuxt 4 Template
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+VNT is a modern, SEO-friendly Nuxt 4 starter template with TypeScript, Tailwind CSS, and accessibility built in.
 
-## Setup
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/MFM-347/VNT?style=social)](https://github.com/MFM-347/VNT/stargazers)
 
-Make sure to install dependencies:
+## 🤝 Contributing
 
-```bash
-# npm
-npm install
+We love community input!
 
-# pnpm
-pnpm install
+- Check [CONTRIBUTING.md](https://github.com/MFM-347/VNT/blob/main/CONTRIBUTING.md)
+- Look for issues labeled **good first issue**
+- Open a Pull Request with your improvement or idea.
 
-# yarn
-yarn install
+If you enjoy this project, **⭐ star it** and share with your network to help others discover it.
 
-# bun
-bun install
-```
+## 🧑‍💻 Credits
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Created with ❤️ by [@MFM-347](https://github.com/MFM-347)
