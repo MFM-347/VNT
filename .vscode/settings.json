@@ -8,5 +8,8 @@
   "explorer.fileNesting.patterns": {
     "nuxt.config.ts": ".env*,eslint*, prettier*, .editorconfig",
     "package.json": "package-lock.json, pnpm*"
+  },
+  "[nix]": {
+    "editor.defaultFormatter": "google.nix-language"
   }
 }
