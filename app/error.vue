@@ -21,7 +21,7 @@ useHead({
       <div class="relative mx-auto h-48 w-48">
         <div class="absolute inset-0 rounded-full bg-primary/10 blur-2xl" aria-hidden="true" />
         <div class="relative flex h-full w-full items-center justify-center">
-          <Icon name="uil:exclamation-triangle" class="text-9xl text-primary" aria-hidden="true" />
+          <Icon class="text-9xl text-primary" name="uil:exclamation-triangle" aria-hidden="true" />
         </div>
       </div>
       <div class="space-y-3">
@@ -39,7 +39,7 @@ useHead({
       <div class="flex flex-col justify-center gap-3 sm:flex-row">
         <VBtn>
           <NuxtLink to="/" aria-label="Go to homepage">
-            <Icon name="uil:arrow-left" class="size-5" aria-hidden="true" />
+            <Icon class="size-5" name="uil:arrow-left" aria-hidden="true" />
             Go Home
           </NuxtLink>
         </VBtn>

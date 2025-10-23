@@ -13,18 +13,18 @@ const toggleTheme = () => {
     <div class="flex justify-around gap-1">
       <NuxtLink to="/">
         <VBtn variant="ghost" title="Home">
-          <Icon name="uil:home-alt" class="h-5 w-5" />
+          <Icon class="h-5 w-5" name="uil:home-alt" />
           <span class="sr-only">Home</span>
         </VBtn>
       </NuxtLink>
       <VBtn variant="ghost" title="Toggle Theme" @click="toggleTheme">
         <Icon
-          name="uil:moon"
           class="h-5 w-5 scale-100 rotate-0 transition-all dark:scale-0 dark:-rotate-90"
+          name="uil:moon"
         />
         <Icon
-          name="uil:sun"
           class="absolute h-5 w-5 scale-0 rotate-90 transition-all dark:scale-100 dark:rotate-0"
+          name="uil:sun"
         />
         <span class="sr-only">Toggle theme</span>
       </VBtn>
