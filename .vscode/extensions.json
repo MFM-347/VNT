@@ -4,6 +4,7 @@
     "EditorConfig.EditorConfig",
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-next",
     "bradlc.vscode-tailwindcss",
     "antfu.iconify"
   ]

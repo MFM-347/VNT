@@ -13,7 +13,12 @@ export default defineNuxtConfig({
     },
   },
 
-  vite: { plugins: [tailwindcss()] },
+  vite: {
+    plugins: [tailwindcss()],
+    build: {
+      cssMinify: 'esbuild',
+    },
+  },
 
   css: ['@/style.css'],
 
@@ -49,6 +54,9 @@ export default defineNuxtConfig({
       fallbacks: {
         'sans-serif': ['Roboto', 'Segoe UI'],
       },
+    },
+    assets: {
+      prefix: '/_fonts',
     },
   },
 
