@@ -41,5 +41,6 @@
     "overrides": {
       "vite": "npm:rolldown-vite@latest"
     }
-  }
+  },
+  "packageManager": "pnpm@10.19.0"
 }
